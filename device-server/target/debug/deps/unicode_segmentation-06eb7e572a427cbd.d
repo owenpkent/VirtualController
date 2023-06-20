@@ -1,0 +1,9 @@
+E:\Sync\Personal\OneDrive - Rocky Mountain Inventions\Documents\Gaming\VirtualController\device-server\target\debug\deps\unicode_segmentation-06eb7e572a427cbd.rmeta: C:\Users\Owen\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.8.0\src\lib.rs C:\Users\Owen\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.8.0\src\grapheme.rs C:\Users\Owen\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.8.0\src\tables.rs C:\Users\Owen\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.8.0\src\word.rs C:\Users\Owen\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.8.0\src\sentence.rs
+
+E:\Sync\Personal\OneDrive - Rocky Mountain Inventions\Documents\Gaming\VirtualController\device-server\target\debug\deps\unicode_segmentation-06eb7e572a427cbd.d: C:\Users\Owen\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.8.0\src\lib.rs C:\Users\Owen\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.8.0\src\grapheme.rs C:\Users\Owen\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.8.0\src\tables.rs C:\Users\Owen\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.8.0\src\word.rs C:\Users\Owen\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.8.0\src\sentence.rs
+
+C:\Users\Owen\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.8.0\src\lib.rs:
+C:\Users\Owen\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.8.0\src\grapheme.rs:
+C:\Users\Owen\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.8.0\src\tables.rs:
+C:\Users\Owen\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.8.0\src\word.rs:
+C:\Users\Owen\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.8.0\src\sentence.rs:
